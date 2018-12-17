@@ -129,6 +129,7 @@ add_executable(${PROJECT_NAME}_test
   ${PROJECT_SOURCE_DIR}/test/DynamicProgramming/testSubstringsSum.cpp
   ${PROJECT_SOURCE_DIR}/test/DynamicProgramming/testTwoEggsDropping.cpp
   ${PROJECT_SOURCE_DIR}/test/FlatSet/testFlatSet.cpp
+  ${PROJECT_SOURCE_DIR}/test/Graph/testBinaryTree.cpp
   ${PROJECT_SOURCE_DIR}/test/LRUCache/testLRUCache.cpp
   ${PROJECT_SOURCE_DIR}/test/MinStack/testMinStack.cpp
   ${PROJECT_SOURCE_DIR}/test/PriorityQueue/testPriorityQueue.cpp
